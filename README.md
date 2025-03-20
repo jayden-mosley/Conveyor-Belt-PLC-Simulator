@@ -18,7 +18,7 @@ This project is a **Conveyor Belt PLC Simulation** built in Python and designed 
 
 ✅ **Ladder Logic Diagram** – Can be used in an online PLC simulator.  
 
-**GUI Visual**
+## GUI Visual
 ![Conveyor-Belt-PLC-Simulator](screenshot1.png)
 ![Conveyor-Belt-PLC-Simulator](screenshot2.png)
 
