@@ -18,12 +18,13 @@ This project is a **Conveyor Belt PLC Simulation** built in Python and designed 
 
 ✅ **Ladder Logic Diagram** – Can be used in an online PLC simulator.  
 
+**GUI Visual**
 ![Conveyor-Belt-PLC-Simulator](screenshot1.png)
 ![Conveyor-Belt-PLC-Simulator](screenshot2.png)
 
 ## IMPORTANT NOTE
 Not sure why but I kept having global variable issues when running this in Spyder, not sure how other softwares will work. Fix for this is to run code in Console Namespace which I guess makes the GUI smoother?
-![Conveyor-Belt-PLC-Simulator](runConsoleNamespace.png)
+![Conveyor-Belt-PLC-Simulator](runConcoleNamespace.png)
 
 ## Installation
 1. Clone the repository:
