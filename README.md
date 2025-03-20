@@ -39,7 +39,7 @@ This project is a **Conveyor Belt PLC Simulation** built in Python and designed 
 - After **24 seconds**, the simulation automatically stops and displays the total count of passed items.  
 
 ## Ladder Logic Implementation
-image
+![Conveyor-Belt-PLC-Simulator](PLC_Simulator.png)
 
 ## Future Improvements
 - implement animated visualisation of the conveyor belt movement  
